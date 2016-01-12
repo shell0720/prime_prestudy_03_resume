@@ -1,0 +1,173 @@
+#container {
+  
+  width: 200px;
+
+  margin: 0 auto;
+  float: right;
+  transform:rotate(10deg);
+
+
+}
+
+#picture {
+  width: 100%;
+  transform: translateY(-80px);
+  box-shadow: 5px 5px 5px 5px lightgrey;
+  border-radius: 10px;
+  
+
+
+
+}
+
+header {
+  background: url("http://stephenmitchellbooks.com/wp-content/uploads/2013/05/subtle_white_feathers.png");
+
+  padding-bottom: 50px;
+  border-radius: 5px;
+
+}
+
+header p { 
+  display: block;
+  font-size: 16px;
+  line-height: 5px;
+  font-family: "new york times";
+
+}
+header h4 {
+
+margin-left: 20px;
+margin-top: 40px;
+font-size: 20px;
+border-right: 
+
+
+}
+
+
+
+p {
+  font-size:17px;
+  font-family: arial ;
+
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  font-family: arial;
+  margin-bottom: 40px;
+
+
+}
+
+h3 {
+  font-size:25px;
+  margin-bottom: 0;
+  text-align: left;
+  background: #000066;
+  color: white;
+  border-radius: 5px;
+
+}
+
+body {
+  background:#e6e6e6;
+
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+article h4 {
+  font-size: 13px;
+  font-family: arial;
+  font-weight: bolder;
+}
+
+li {
+  font-family: arial;
+  font-size: 15px;
+  
+
+
+}
+
+quote {
+  text-align: right;
+}
+
+.education h4 {
+margin:0;
+float: right;
+clear: both;
+
+
+}
+.education li {
+  float: left;
+
+}
+
+.education {
+  padding-bottom: 60px;
+}
+
+
+
+.main h4 {
+margin:0;
+float: right;
+clear: both;
+
+
+}
+.main li {
+  float: left;
+
+}
+
+.main {
+  padding-bottom: 80px;
+  
+}
+
+
+
+
+
+
+.exp h4 {
+margin:0;
+float: right;
+clear: both;
+
+
+}
+.exp li {
+  float: left;
+}
+
+.exp {
+  padding-bottom: 60px;
+
+}
+
+footer {
+
+  background: url("http://stephenmitchellbooks.com/wp-content/uploads/2013/05/subtle_white_feathers.png");
+}
+footer p {
+
+  font-size: 12px;
+  text-align: center;
+}
+
+article {
+  background: url("http://stephenmitchellbooks.com/wp-content/uploads/2013/05/subtle_white_feathers.png");
+  border-radius: 5px;
+
+}
+
+
